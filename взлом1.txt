@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 this.resize(0
-=======
-this.resize(a.width()
->>>>>>> 05265e0a9f92a8f7df50e4468fb9d9ff4060a9de
 this.resize(0

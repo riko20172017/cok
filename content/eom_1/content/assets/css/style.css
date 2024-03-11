@@ -8,8 +8,9 @@ img {
 }
 
 .eom-content-desc {
+    overflow-y: scroll;
     padding: 5px 20px;
     text-align: justify;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 1.6;
 }
