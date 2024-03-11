@@ -2,11 +2,14 @@ window.menu =
     [
         {
             title: "Тесты",
-            submenu: []
+            submenu:
+                [
+                    {
+                        title: "Тесты по HTML",
+                    },
+                    {
+                        title: "Тесты по CSS",
+                    },
+                ]
         },
-        {
-            title: "Мини-игры",
-            submenu: []
-        },
-
     ]
