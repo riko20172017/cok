@@ -1,2 +1,0 @@
-this.resize(a.width()
-this.resize(0
