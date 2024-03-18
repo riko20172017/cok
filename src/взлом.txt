@@ -1,2 +1,2 @@
-.trial_banner {
-.trial_banner { display: none; 
+.trial_banner { display: none;
+.trial_banner { display: none; display: none; 

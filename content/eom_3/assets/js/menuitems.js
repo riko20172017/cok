@@ -5,10 +5,7 @@ window.menu =
             submenu:
                 [
                     {
-                        title: "Тесты по HTML",
-                    },
-                    {
-                        title: "Тесты по CSS",
+                        title: "Тесты по PHP",
                     },
                 ]
         },
